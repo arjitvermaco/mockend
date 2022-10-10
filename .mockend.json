@@ -1,5 +1,9 @@
 {
-    "User": {
-      "title": { "string": {} }
-    }
+  "User": {
+    "title": { "string": {} }
+  },
+  "Post":{
+    "title":{"string":{}},
+    "body":{"string":{}}
   }
+}
